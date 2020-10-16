@@ -57,18 +57,18 @@ Here's a table that shows in which global version is located each component of F
 |----------------------------------|:-----------------:|:--------------:|
 | Firebase A/B Testing             | **3.2.0.0**       | **6.22.0**     |
 | Firebase AdMob                   | **7.57.0.0**      | **6.22.0**     |
-| Firebase Analytics               | **6.4.1.0**       | **6.22.0**     |
-| Firebase Auth                    | **6.5.1.0**       | **6.22.0**     |
+| Firebase Analytics               | **6.7.2-local**   | **6.30.0**     |
+| Firebase Auth                    | **6.8.0-local**   | **6.30.0**     |
 | Firebase Cloud Firestore         | **1.12.0.0**      | **6.22.0**     |
 | Firebase Cloud Functions         | **2.5.1.0**       | **6.22.0**     |
 | Firebase Cloud Messaging         | **4.3.0.0**       | **6.22.0**     |
-| Firebase Core                    | **6.6.6.0**       | **6.22.0**     |
+| Firebase Core                    | **6.10.0-local**  | **6.30.0**     |
 | Firebase Crashlytics             | **4.0.0-beta.7**  | **6.22.0**     |
 | Firebase Database                | **6.1.4.0**       | **6.22.0**     |
 | Firebase Dynamic Links           | **4.0.8.0**       | **6.22.0**     |
 | Firebase In App Messaging        | **0.19.2.1**      | **6.22.0**     |
-| Firebase Installations           | **1.1.1.0**       | **6.22.0**     |
-| Firebase Instance ID             | **4.3.3.0**       | **6.22.0**     |
+| Firebase Installations           | **1.6.1-local**   | **6.30.0**     |
+| Firebase Instance ID             | **4.6.0-local**   | **6.30.0**     |
 | Firebase MLKit                   | **0.19.0.0**      | **6.22.0**     |
 | Firebase MLKit Common            | **0.19.0.0**      | **6.22.0**     |
 | Firebase MLKit Model Interpreter | **0.19.0.0**      | **6.22.0**     |
